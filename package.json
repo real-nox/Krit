@@ -1,0 +1,15 @@
+{
+  "name": "krit",
+  "version": "0.0.1",
+  "description": "My personal discord bot",
+  "main": "src/krit.js",
+  "scripts": {
+    "test": "nodemon src/krit.js"
+  },
+  "author": "Rayane",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.25.0",
+    "dotenv": "^17.2.3"
+  }
+}
